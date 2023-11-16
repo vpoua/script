@@ -1,4 +1,4 @@
--- Cosmetic V2 On TOP
+-- Vurtier On TOP
 -- Best Universal Script on ROBLOX
 -- Made by certificated and greenstuffnew on discord
 
